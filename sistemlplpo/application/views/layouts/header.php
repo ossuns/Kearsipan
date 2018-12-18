@@ -104,13 +104,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="http://localhost/sistemlplpo/obat/" class="nav-link <?php/* echo $listobat;*/ ?>">
+                <a href="http://localhost/Kearsipan/sistemlplpo/obat/" class="nav-link <?php/* echo $listobat;*/ ?>">
                   <i class="fa fa-circle-o nav-icon"></i>
                   <p>Data Obat</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="http://localhost/sistemlplpo/obat/create" class="nav-link">
+                <a href="http://localhost/Kearsipan/sistemlplpo/obat/create" class="nav-link">
                   <i class="fa fa-circle-o nav-icon"></i>
                   <p>Tambah Obat</p>
                 </a>
@@ -127,13 +127,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="http://localhost/sistemlplpo/puskesmas/" class="nav-link">
+                <a href="http://localhost/Kearsipan/sistemlplpo/puskesmas/" class="nav-link">
                   <i class="fa fa-circle-o nav-icon"></i>
                   <p>List Puskesmas</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="http://localhost/sistemlplpo/puskesmas/create" class="nav-link">
+                <a href="http://localhost/Kearsipan/sistemlplpo/puskesmas/create" class="nav-link">
                   <i class="fa fa-circle-o nav-icon"></i>
                   <p>Tambah Puskesmas</p>
                 </a>
@@ -162,13 +162,13 @@
                 </a>
               </li> -->
               <li class="nav-item">
-                <a href="http://localhost/sistemlplpo/persediaan/dropdown" class="nav-link">
+                <a href="http://localhost/Kearsipan/sistemlplpo/persediaan/dropdown" class="nav-link">
                   <i class="fa fa-circle-o nav-icon"></i>
                   <p>List Persediaan</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="http://localhost/sistemlplpo/persediaan/dropdown2" class="nav-link">
+                <a href="http://localhost/Kearsipan/sistemlplpo/persediaan/dropdown2" class="nav-link">
                   <i class="fa fa-circle-o nav-icon"></i>
                   <p>Rata-rata Persediaan</p>
                 </a>
@@ -191,13 +191,13 @@
                 </a>
               </li> -->
               <li class="nav-item">
-                <a href="http://localhost/sistemlplpo/laporan/pencarianlaporan" class="nav-link">
+                <a href="http://localhost/Kearsipan/sistemlplpo/laporan/pencarianlaporan" class="nav-link">
                   <i class="fa fa-circle-o nav-icon"></i>
                   <p>List Laporan</p>
                 </a>
               </li
               <li class="nav-item">
-                <a href="http://localhost/sistemlplpo/laporan/create" class="nav-link">
+                <a href="http://localhost/Kearsipan/sistemlplpo/laporan/create" class="nav-link">
                   <i class="fa fa-circle-o nav-icon"></i>
                   <p>Tambah Laporan</p>
                 </a>
