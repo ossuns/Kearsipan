@@ -69,6 +69,7 @@ class Bulan extends CI_Controller
         $this->load->view('bulan/bulan_form', $data);
     }
     
+    
     public function create_action() 
     {
         $this->_rules();
