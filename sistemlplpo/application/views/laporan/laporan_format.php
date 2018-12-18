@@ -25,13 +25,10 @@
 		text-decoration: none;
 		border-radius: 2px;
 	}
-	</style>
-	<center>		
-		<h4 style="margin-top:0px;text-align:center;font-size:9pt;font-family:  Arial, Helvetica, sans-serif">LAPORAN PEMAKAIAN OBAT DAN PERMINTAAN OBAT
+	</style>		
+		<h4 style="margin-top:0px;text-align:center;font-size:9pt;font-family:  Arial, Helvetica, sans-serif">LAPORAN PEMAKAIAN OBAT DAN PERMINTAAN OBAT 
 	<br>PUSKESMAS (Nama Puskesmas)
 	<br>BULAN (Bulan) TAHUN (Tahun)</h4>
-	</center>
-
 	</table>
 		<table border=1 style="font-size:9pt,font-family:  Arial, Helvetica, sans-serif;">
 		<thead>
