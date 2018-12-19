@@ -12,7 +12,7 @@ class Obat extends CI_Controller
         $this->load->library('form_validation', 'simple_login');
         $this->simple_login->cek_login();
     }
-
+	//index obat
     public function index()
     {
         $q = urldecode($this->input->get('q', TRUE));

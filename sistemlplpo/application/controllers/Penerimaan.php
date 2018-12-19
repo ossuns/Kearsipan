@@ -11,7 +11,7 @@ class Penerimaan extends CI_Controller
         $this->load->model('Penerimaan_model');
         $this->load->library('form_validation');
     }
-
+	//index penerimaan
     public function index()
     {
         $q = urldecode($this->input->get('q', TRUE));
