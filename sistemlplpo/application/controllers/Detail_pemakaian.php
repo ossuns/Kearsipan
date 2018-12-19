@@ -11,7 +11,7 @@ class Detail_pemakaian extends CI_Controller
         $this->load->model('Detail_pemakaian_model');
         $this->load->library('form_validation');
     }
-
+//index detail pemakaian
     public function index()
     {
         $q = urldecode($this->input->get('q', TRUE));
@@ -42,7 +42,7 @@ class Detail_pemakaian extends CI_Controller
         );
         $this->load->view('detail_pemakaian/detail_pemakaian_list', $data);
     }
-
+//fungsi untuk read
     public function read($id) 
     {
         $row = $this->Detail_pemakaian_model->get_by_id($id);
