@@ -12,7 +12,7 @@ class Puskesmas extends CI_Controller
         $this->load->library('form_validation');
         $this->simple_login->cek_login();
     }
-
+	//Index Puskesmas
     public function index()
     {
         $q = urldecode($this->input->get('q', TRUE));
@@ -59,7 +59,7 @@ class Puskesmas extends CI_Controller
             redirect(site_url('puskesmas'));
         }
     }
-
+	//fungsi untuk create
     public function create() 
     {
         $data = array(
@@ -71,7 +71,7 @@ class Puskesmas extends CI_Controller
 	);
         $this->template->load('layouts','puskesmas/puskesmas_form', $data);
     }
-    
+    //fungsi aksi dari create
     public function create_action() 
     {
         $this->_rules();
